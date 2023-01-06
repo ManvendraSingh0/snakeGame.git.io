@@ -1,0 +1,29 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body
+{
+    background-image:url('https://images.unsplash.com/photo-1530508777238-14544088c3ed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Z2FsYXh5JTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60');
+}
+canvas
+{
+    background-color: black;
+}
+div
+{
+    flex-direction: row;
+    padding: 5px;
+    width: 1500px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    
+   
+}
+button
+{
+padding: 5px;
+  margin-left: 50px;
+}
